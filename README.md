@@ -3,10 +3,10 @@ FLISOL Assistance Management(FAM)
 
 This is a project of FLISOL(Festival Latinoamericano del Software Libre)
 
-This pplication is responsible for administering the assistance festival
+This application is responsible for administering the assistance festival
 
 -Assistants
--courses
+-Courses
 -Exhibitors
 -Classrooms
 -Registration
